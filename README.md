@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my portfolio! My name is Tomas Gil amoedo 👨‍💻 and I am a passionate front-end developer from Argentina 🚀 with over a year of experience in building high-quality web applications 💻. I specialize in React.js and have experience with other frameworks such as Vue.js and Angular 🎨.
+Welcome to my portfolio! My name is Tomas Gil amoedo 👨‍💻 and I am a passionate front-end developer from Argentina 🚀 with over a year of experience in building high-quality web applications 💻. I specialize in React.js and have experience with other frameworks such as Vue.js 🎨.
 
 I have a strong foundation in HTML, CSS, JavaScript, and TypeScript 💡, and I am skilled in writing clean, maintainable, and scalable code. I have a keen eye for detail and I am committed to delivering pixel-perfect designs 🧐.
 
