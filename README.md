@@ -9,3 +9,6 @@ One of my recent achievements was implementing end-to-end testing using Cypress 
 While I appreciate the importance of UI design, I am more passionate about logical problem-solving and conflict resolution 🤔. I am more focused on being a frontend developer with knowledge of backend and a macro view of the application 🤝. I am known for my versatility and ability to approach problems with a critical thinking mindset 🚀. My experience in problem-solving allows me to identify and resolve complex issues in a timely and efficient manner, making me a valuable asset to any team 💻.
 
 I am a team player and I have experience working with Agile development methodologies and version control systems like Git 🔎. I am always eager to learn new technologies and techniques to improve my skills and deliver high-quality code 🔎.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tommydemian&show_icons=true)
+
