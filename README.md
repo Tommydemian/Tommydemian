@@ -10,5 +10,5 @@ While I appreciate the importance of UI design, I am more passionate about logic
 
 I am a team player and I have experience working with Agile development methodologies and version control systems like Git 🔎. I am always eager to learn new technologies and techniques to improve my skills and deliver high-quality code 🔎.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tommydemian&show_icons=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tommydemian&show_icons=true) -->
 
