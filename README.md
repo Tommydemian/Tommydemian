@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Welcome to my Github portfolio! My name is Tomas Gil amoedo 👨‍💻 and I am a skilled Front-End developer from Argentina 🚀 with almost 3 years of experience in building high-quality web applications 💻. I specialize in React.js, React native [plain and expo], and Vuejs. I also have experience with Nodejs 🎨.
+Welcome to my Github portfolio! My name is Tomas Gil amoedo 👨‍💻 and I am a skilled Full-Stack developer from Argentina 🚀 with almost 3 years of experience in building high-quality web applications 💻. I specialize in React.js, React native [plain and expo], and Vuejs. I also have experience with Nodejs 🎨.
 
-I have a strong foundation in HTML, CSS, JavaScript ( specially ), and TypeScript 💡, .
+I have a strong foundation in HTML, CSS, JavaScript ( specially ), Node | Express and TypeScript 💡, .
 
 One of my recent/current achievements is leading a React Native project with +500 active users.
 
