@@ -8,7 +8,7 @@ A current project showcasing my depth as a developer is SFIDO, a React Native Ap
 
 I'm a firm believer in lifelong learning and consistently strive to stay abreast of the latest technologies and methodologies. As a team-oriented professional, I have thrived in Agile environments and am well-versed in version control with Git 🔎.
 
-Join me on this incredible journey of coding and exploration. Let's connect, collaborate, and create the future together! 🚀
+Join me on this incredible journey of coding and exploration. Let's connect, collaborate, and create the future together! 
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommyDemian&layout=compact)
