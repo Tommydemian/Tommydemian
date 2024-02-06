@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-Welcome to my Github portfolio! My name is Tomas Gil amoedo 👨‍💻 and I am a skilled Full-Stack developer from Argentina 🚀 with almost 3 years of experience in building high-quality web applications 💻. I specialize in React.js, React native [plain and expo], and Vuejs. I also have experience with Nodejs 🎨.
+Welcome to my GitHub portfolio! I'm Tomas Gil Amoedo 👨‍💻, a dedicated Full-Stack Developer from Argentina 🚀 with nearly 3 years of hands-on experience in crafting high-quality web applications 💻. I specialize in React.js, React Native (including both plain and Expo), and Vue.js, enriched by my proficiency with Node.js 🎨.
 
-I have a strong foundation in HTML, CSS, JavaScript ( specially ), Node | Express and TypeScript 💡, .
+I possess a firm foundation in HTML, CSS, JavaScript (particularly), Node | Express, and TypeScript 💡. I value problem-solving skills and technical communication as central to a developer's success. Delving into the intricacies of technology underpins my ability to effectively interface with technical and non-technical audiences alike.
 
-One of my recent/current achievements is leading a React Native project with +500 active users.
+A current project showcasing my depth as a developer is SFIDO, a React Native App I'm developing on my own leading a worlwide team with people from USA, Italy and Singapur. The public GitHub repository stands as a testament to my coding practices and user-focused design approach.
 
-problem-solving skills and technical communication are the core skills for success as a developer. I am constantly striving to deepen my understanding of how things work under the hood, as I believe this is crucial for effective communication with both technical and non-technical stakeholders. Continual learning is a passion of mine, and I make it a priority to stay up-to-date with the latest technologies and techniques in the field.
+I'm a firm believer in lifelong learning and consistently strive to stay abreast of the latest technologies and methodologies. As a team-oriented professional, I have thrived in Agile environments and am well-versed in version control with Git 🔎.
 
-I am a team player and I have experience working with Agile development methodologies and version control systems like Git 🔎. I am always eager to learn new technologies and techniques to improve my skills and deliver high-quality code 🔎.
-
+Feel free to delve into my repositories to gauge the quality and breadth of my work. If you're on the lookout for a diligent developer who brings both fervor and versatility to the table, let's connect!
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tommydemian&show_icons=true) -->
 
