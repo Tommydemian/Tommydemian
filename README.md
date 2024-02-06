@@ -10,8 +10,4 @@ I'm a firm believer in lifelong learning and consistently strive to stay abreast
 
 Feel free to delve into my repositories to gauge the quality and breadth of my work. If you're on the lookout for a diligent developer who brings both fervor and versatility to the table, let's connect!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=highcontrast)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tommydemian&show_icons=true) -->
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommyDemian&layout=compact)
